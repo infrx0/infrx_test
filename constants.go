@@ -1,3 +1,3 @@
 package main
 
-const GreetingPrefix = "Hello, "
+const GreetingPrefix = "Helloaqaqaq, "
